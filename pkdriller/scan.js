@@ -37,7 +37,7 @@ const date = moment().format('DD/MM/YYYY');
   let infoMsg =  `
  *Tap on the link to get session👑get connected by pkdriller*
   
- https://nexus-ai-pair.onrender.com/
+ https://nexus-qr-code-1-caxd.onrender.com/
  
  
  *STEPS TO GET SESSION*

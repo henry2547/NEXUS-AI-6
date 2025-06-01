@@ -7,8 +7,8 @@ const gis = require('g-i-s');
 
 
 zokou({
-  'nomCom': 'app',
-  'aliases': ['app', 'playstore'],
+  'nomCom': 'apk',
+  'aliases': ['apk', 'playstore'],
   'reaction': '🉑',
   'categorie': 'Download'
 }, async (groupId, client, context) => {

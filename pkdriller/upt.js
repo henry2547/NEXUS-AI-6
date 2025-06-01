@@ -17,7 +17,7 @@ zokou({
   'nomCom': "uptime",
   'desc': "To check runtime",
   'Categorie': "General",
-  'reaction': '😅',
+  'reaction': '↖️',
   'fromMe': "true"
 }, async (_0x4d1cb2, _0x6e67fd, _0x17c78a) => {
   const {
@@ -28,7 +28,7 @@ zokou({
   try {
     await _0x6e67fd.sendMessage(_0x4d1cb2, {
       'audio': {
-        'url': "https://files.catbox.moe/m1wgdb.mp3"
+        'url': "https://files.catbox.moe/mfhv0a.mp3"
       },
       'mimetype': "audio/mp4",
       'ptt': true,
@@ -36,14 +36,14 @@ zokou({
         'isForwarded': true,
         'forwardedNewsletterMessageInfo': {
           'newsletterJid': "120363288304618280@newsletter",
-          'newsletterName': "QUEEN-M",
+          'newsletterName': "NEXUS-AI",
           'serverMessageId': 0x8f
         },
         'forwardingScore': 0x3e7,
         'externalAdReply': {
           'title': "Bot Runtime",
           'body': " Uptime: " + runtime(process.uptime()),
-          'thumbnailUrl': "https://files.catbox.moe/xtqnme.jpg",
+          'thumbnailUrl': "https://files.catbox.moe/ts2az9.jpg",
           'sourceUrl': "https://whatsapp.com/channel/0029Vad7YNyJuyA77CtIPX0x",
           'mediaType': 0x1,
           'renderLargerThumbnail': true
